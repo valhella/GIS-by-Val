@@ -39,11 +39,11 @@ A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin 
 -	Goals: Convert LiDAR data to a variety of rasters, calculate tree heights, and figure out how much large woody debris is available to plum creek in the arb. 
 -	Tools:
   -	Point file information, create LAS dataset
-  -	Save gps waypoints as shapefile, merge, project, mosaic to new raster, new shapefile polyline, define projection, LAS dataset to raster
-  -	Python: Make LAS Dataset Layer, LAS dataset to raster, Raster, Map Algebra, Euclidean distance
+  - Save gps waypoints as shapefile, merge, project, mosaic to new raster, new shapefile polyline, define projection, LAS dataset to raster
+  - Python: Make LAS Dataset Layer, LAS dataset to raster, Raster, Map Algebra, Euclidean distance
 ### Lab 9: Remote Sensing and Python
 - Goals: Develop a land cover raster dataset and compare it to official USGS land use dataset. Determine whether Landsat 7, Landsat 8, or EO-1 produces the best multispectral imagery best suited for land cover classification. Learn how to make true-color and false-color imagery. Write code to simplify process in future.
 - Tools:
--   Create new shapefile, define projection, project
--   Python: ListRasters, ExtractByMask
--   Composite bands, iso cluster unsupervised classification tool
+  - Create new shapefile, define projection, project
+  - Python: ListRasters, ExtractByMask
+  - Composite bands, iso cluster unsupervised classification tool
