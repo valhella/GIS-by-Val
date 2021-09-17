@@ -1,6 +1,7 @@
 # ArcGIS
 A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin College, 2017.
-***
+
+
 ## Summary of Competencies
 ### Lab 1: Introduction to ArcGIS
 -	Goals: Create folders, navigate windows explorer and Arc Catalog, Arc Map, add data, load extensions, practice Arc Scene
