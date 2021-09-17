@@ -3,11 +3,12 @@ A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin 
 
 ## Summary of Competencies
 Lab 1: Introduction to ArcGIS
-+ Goals: Create folders, navigate windows explorer and Arc Catalog, Arc Map, add data, load extensions, practice Arc Scene
-+ Tools: Hillshade
+•	Goals: Create folders, navigate windows explorer and Arc Catalog, Arc Map, add data, load extensions, practice Arc Scene
+•	Tools: Hillshade
 Lab 2: Projections
-+ Goals: Exploring geographic + projected coordinate systems
-+ Tools: Define projection, project, project raster, locating metadata
+•	Goals: Exploring geographic + projected coordinate systems
+•	Tools: Define projection, project, project raster, locating metadata
+![image](https://user-images.githubusercontent.com/45399983/133864085-5fcb3def-7fcc-4c31-89a5-c5f329a900e4.png)
 Lab 3: Sinuosity
   •	Goals: See how a river changed over time, get familiar with python, understand how to digitize things
   •	Tools: Create shapefile (we used polyline in this one) and project it, Add fields to attribute tables, digitize river paths using editor toolbar, modify python script to allow for correct calculation of sinuosity, sinuosity tool
