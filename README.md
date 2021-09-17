@@ -24,10 +24,10 @@ A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin 
 ### Lab 6: Evaluating the effect of scale on raster calculations 
 -	Goals: Test hypothesis made in Montgomery and Brandon (2002) that mean local relief and slope give the same information but that mean local relief is less dependent on the scale of the raster; learn how to make and run a python function from scratch; understand how grid size effects calculation speed and mean local relief and slope calculations. 
 -	Tools:
-  -	Clip, project raster
-  -	Slope, raster calculator to make slope-calculated dem file data rounded to nearest integers, export data to excel to make scatter plots
-  -	Python: created function, ran function, saved file (focal statistics)
-  -	Created histograms in Excel to compare slope and mean local relief
+  - Clip, project raster
+  - Slope, raster calculator to make slope-calculated dem file data rounded to nearest integers, export data to excel to make scatter plots
+  - Python: created function, ran function, saved file (focal statistics)
+  - Created histograms in Excel to compare slope and mean local relief
 ### Lab 7: Rainfall patterns and drainage density on the big island of Hawaii
 - Goals: Learn how to create a streams polyline starting with a DEM using flow accumulation tool, extract stream networks and watersheds from DEMs to see if there is a correlation between precipitation and the way a stream network develops on a mountain, and calculate drainage density. 
 - Tools: 
@@ -39,7 +39,7 @@ A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin 
 ### Lab 8: Large Woody Debris available to Plum Creek in the Oberlin Arb
 -	Goals: Convert LiDAR data to a variety of rasters, calculate tree heights, and figure out how much large woody debris is available to plum creek in the arb. 
 -	Tools:
-  -	Point file information, create LAS dataset
+  - Point file information, create LAS dataset
   - Save gps waypoints as shapefile, merge, project, mosaic to new raster, new shapefile polyline, define projection, LAS dataset to raster
   - Python: Make LAS Dataset Layer, LAS dataset to raster, Raster, Map Algebra, Euclidean distance
 ### Lab 9: Remote Sensing and Python
