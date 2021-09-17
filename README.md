@@ -39,7 +39,7 @@ A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin 
 ### Lab 8: Large Woody Debris available to Plum Creek in the Oberlin Arb
 -	Goals: Convert LiDAR data to a variety of rasters, calculate tree heights, and figure out how much large woody debris is available to plum creek in the arb. 
 -	Tools:
-  - Point file information, create LAS dataset
+  -	Point file information, create LAS dataset
   - Save gps waypoints as shapefile, merge, project, mosaic to new raster, new shapefile polyline, define projection, LAS dataset to raster
   - Python: Make LAS Dataset Layer, LAS dataset to raster, Raster, Map Algebra, Euclidean distance
 ### Lab 9: Remote Sensing and Python
