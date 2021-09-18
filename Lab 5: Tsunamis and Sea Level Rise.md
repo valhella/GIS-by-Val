@@ -10,7 +10,8 @@ Only a sample of the map series for the Olympic Peninsula have been included. I 
 
 ![Extraction_MastersLab5 26](https://user-images.githubusercontent.com/45399983/133898594-2e83fe50-8451-45a9-b56d-3a404f60d8c1.png)
 
-![Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898598-c00d61c1-2e4b-41f4-8cee-3ed68437f06f.png)
+[Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898598-c00d61c1-2e4b-41f4-8cee-3ed68437f06f.png)
+![Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898612-31294a78-c699-4daf-b0e5-16b4812a1def.png)
 
 ![Tohoku_edit](https://user-images.githubusercontent.com/45399983/133865721-5ebfd9e4-8eca-48b9-a0d1-2092d8626ba1.png)
 
