@@ -1,6 +1,6 @@
 # ArcGIS
 A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin College, 2017.
-
+Labs 1, 2, and 6 did not involve creating maps, so their output is not included in this repository. 
 
 ## Summary of Competencies
 ### Lab 1: Introduction to ArcGIS
