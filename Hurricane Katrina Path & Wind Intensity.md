@@ -1,5 +1,6 @@
 # Hurricane Katrina Path & Wind Intensity
-## Original and revised map based on colleague feedback
+## GIS Lab 4 - Original and revised map based on colleague feedback
+
 
 Original Map:
 ![Original map_Masters_map_review_2](https://user-images.githubusercontent.com/45399983/133865833-5cf28a66-a525-4a2c-9884-b86998fd3cfc.png)
