@@ -1,6 +1,8 @@
 # Large Woody Debris
 ## GIS Lab 8
 
+![Masters_Lab_8_Page_1](https://user-images.githubusercontent.com/45399983/133866475-b21d7588-4462-46f6-a60d-f4cec55062bc.png)
+
 ### Creator's Notes: 
 For this lab my lab walked around Plum Creek in Oberlin, Ohio and used a Global Positioning System (GPS) devices to record the locations of big trees. After that we
 imported our GPS data and compared the locations of the trees with aerial imagery to see how accurate
