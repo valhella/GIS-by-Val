@@ -10,13 +10,11 @@ Only a sample of the map series for the Olympic Peninsula have been included. I 
 
 ![Extraction_MastersLab5 26](https://user-images.githubusercontent.com/45399983/133898594-2e83fe50-8451-45a9-b56d-3a404f60d8c1.png)
 
-[Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898598-c00d61c1-2e4b-41f4-8cee-3ed68437f06f.png)
 ![Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898612-31294a78-c699-4daf-b0e5-16b4812a1def.png)
 
 ![Tohoku_edit](https://user-images.githubusercontent.com/45399983/133865721-5ebfd9e4-8eca-48b9-a0d1-2092d8626ba1.png)
 
-### C![Uploading Extraction_MastersLab5 26.png…]()
-reator's Notes:
+### Creator's Notes:
 The intent of this lab was to show how climate change-induced sea level rise could mimic a short-term natural disaster like a tsunami, and draw attention to how rising sea levels will cause an increase in destruction from storm surges and tsunamis.  
 
 For the Olympic Peninsula map series, I researched what the expected future sea level rise will be in Washington State with climate change (assuming "business as usual" emissions scenario), and
