@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+I have also included a final project completed by myself and Kopo Oromeng called [The State of the Lake](https://github.com/valhella/ArcGIS/blob/102fdbfe4c17f4941ba6154d772be4f7c5ca1b6a/The%20State%20of%20the%20Lake%20poster.md), which investigates algal blooms in Lake Erie.
 
-You can use the [editor on GitHub](https://github.com/valhella/ArcGIS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Labs 1, 2, and 6 did not involve creating maps, so their output is not included in this repository. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary of Competencies
 
-### Markdown
+### Lab 1: Introduction to ArcGIS
+-	Goals: Create folders, navigate windows explorer and Arc Catalog, Arc Map, add data, load extensions, practice Arc Scene
+-	Tools: Hillshade
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lab 2: Projections
+-	Goals: Exploring geographic + projected coordinate systems
+-	Tools: Define projection, project, project raster, locating metadata
 
-```markdown
-Syntax highlighted code block
+### Lab 3: Sinuosity [(View outputs)](https://github.com/valhella/ArcGIS/blob/9508cf6ecff3b822373e1eff6fd8b987d39f3fc2/Lab%203:%20Sinuosity.md)
+-	Goals: See how a river changed over time, get familiar with python, understand how to digitize things
+-	Tools: Create shapefile (we used polyline in this one) and project it, Add fields to attribute tables, digitize river paths using editor toolbar, modify python script to allow for correct calculation of sinuosity, sinuosity tool
 
-# Header 1
-## Header 2
-### Header 3
+### Lab 4: Hurricanes [(View outputs)](https://github.com/valhella/ArcGIS/blob/102fdbfe4c17f4941ba6154d772be4f7c5ca1b6a/Lab%204:%20Hurricanes.md)
+-	Goals: Show path of one hurricane, its projected paths from different time frames, the error associated with the path, and the areas affected by different strength winds. Also showed which counties are hit by hurricanes the most, and which counties had the most old people that would be affected by hurricanes. 
+-	Tools: Display XY data, buffer, point to line, merge, select by attributes, dissolve, spatial join
 
-- Bulleted
-- List
+### Lab 5: Tsunamis and Sea Level Rise [(View outputs)](https://github.com/valhella/ArcGIS/blob/102fdbfe4c17f4941ba6154d772be4f7c5ca1b6a/Lab%205:%20Tsunamis%20and%20Sea%20Level%20Rise.md)
+-	Goals: estimate how many people would be affected by sea level rise or a tsunami, create data driven map book
+-	Tools: 
+  - ASCII to raster tool, define projection, project raster, float to raster, hillshade, raster domain, clip
+  - Reclassify, raster to polygon, select by attributes and create layer from selectionexport, select by location, python select by location
+  - Zonal statistics as table, intersect, grid index (cartography)
+### Lab 6: Evaluating the effect of scale on raster calculations 
+-	Goals: Test hypothesis made in Montgomery and Brandon (2002) that mean local relief and slope give the same information but that mean local relief is less dependent on the scale of the raster; learn how to make and run a python function from scratch; understand how grid size effects calculation speed and mean local relief and slope calculations. 
+-	Tools:
+    - Clip, project raster
+    - Slope, raster calculator to make slope-calculated dem file data rounded to nearest integers, export data to excel to make scatter plots
+    - Python: created function, ran function, saved file (focal statistics)
+    - Created histograms in Excel to compare slope and mean local relief
 
-1. Numbered
-2. List
+### Lab 7: Rainfall patterns and drainage density on the big island of Hawaii [(View outputs)](https://github.com/valhella/ArcGIS/blob/102fdbfe4c17f4941ba6154d772be4f7c5ca1b6a/Lab%207:%20Rainfall%20patterns%20and%20drainage%20density%20on%20the%20big%20island%20of%20Hawaii.md)
+- Goals: Learn how to create a streams polyline starting with a DEM using flow accumulation tool, extract stream networks and watersheds from DEMs to see if there is a correlation between precipitation and the way a stream network develops on a mountain, and calculate drainage density. 
+- Tools: 
+  - Define projection, project, project raster
+  - Slope, hillshade, fill, flow direction, flow accumulation, reclassify, raster to polyline
+  - Create shapefile, add points for outflows of streams on streams file we made
+  - Use python script to create watersheds, turn the watersheds into polygons, calculate zonal statistics with each polygon as a zone, and then join the resulting statistical information with the shapefile.
+  - Merge watersheds, calculate geometry to find watershed area and length of streams, combine lines(?), excel plotting
 
-**Bold** and _Italic_ and `Code` text
+### Lab 8: Large Woody Debris available to Plum Creek in the Oberlin Arb [(View outputs)](https://github.com/valhella/ArcGIS/blob/102fdbfe4c17f4941ba6154d772be4f7c5ca1b6a/Lab%208:%20Large%20Woody%20Debris%20available%20to%20Plum%20Creek.md)
+-	Goals: Convert LiDAR data to a variety of rasters, calculate tree heights, and figure out how much large woody debris is available to plum creek in the arb. 
+-	Tools:
+    -	Point file information, create LAS dataset
+    - Save gps waypoints as shapefile, merge, project, mosaic to new raster, new shapefile polyline, define projection, LAS dataset to raster
+    - Python: Make LAS Dataset Layer, LAS dataset to raster, Raster, Map Algebra, Euclidean distance
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valhella/ArcGIS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Lab 9: Remote Sensing and Python [(View outputs)](https://github.com/valhella/ArcGIS/blob/102fdbfe4c17f4941ba6154d772be4f7c5ca1b6a/Lab%209:%20Remote%20Sensing%20and%20Python.md)
+- Goals: Develop a land cover raster dataset and compare it to official USGS land use dataset. Determine whether Landsat 7, Landsat 8, or EO-1 produces the best multispectral imagery best suited for land cover classification. Learn how to make true-color and false-color imagery. Write code to simplify process in future.
+- Tools:
+  - Create new shapefile, define projection, project
+  - Python: ListRasters, ExtractByMask
+  - Composite bands, iso cluster unsupervised classification tool
