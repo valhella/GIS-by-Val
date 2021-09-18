@@ -11,7 +11,7 @@ I have also included a final project completed by myself and Kopo Oromeng called
 ### Lab 2: Projections
 -	Goals: Exploring geographic + projected coordinate systems
 -	Tools: Define projection, project, project raster, locating metadata
-### Lab 3: Sinuosity
+### Lab 3: Sinuosity [(View outputs)](https://github.com/valhella/ArcGIS/blob/9508cf6ecff3b822373e1eff6fd8b987d39f3fc2/Lab%203:%20Sinuosity.md)
 -	Goals: See how a river changed over time, get familiar with python, understand how to digitize things
 -	Tools: Create shapefile (we used polyline in this one) and project it, Add fields to attribute tables, digitize river paths using editor toolbar, modify python script to allow for correct calculation of sinuosity, sinuosity tool
 ### Lab 4: Hurricanes
