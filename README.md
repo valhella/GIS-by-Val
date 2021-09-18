@@ -2,6 +2,8 @@
 A sample of my ArcGIS mapping projects completed during a GIS course at Oberlin College, fall 2017.
 Labs 1, 2, and 6 did not involve creating maps, so their output is not included in this repository. 
 
+I have also included a final project completed by myself and Kopo Oromeng called The State of the Lake, which investigates algal blooms in Lake Erie. 
+
 ## Summary of Competencies
 ### Lab 1: Introduction to ArcGIS
 -	Goals: Create folders, navigate windows explorer and Arc Catalog, Arc Map, add data, load extensions, practice Arc Scene
