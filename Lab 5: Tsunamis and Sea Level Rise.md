@@ -1,10 +1,17 @@
 # Map of the maxiumum water rise from the 2011 Tohoku Tsunami in the Olympic Peninsula compared with projected climate-induced sea level rise
 ## GIS Lab 5
-![Tohoku_edit](https://user-images.githubusercontent.com/45399983/133865721-5ebfd9e4-8eca-48b9-a0d1-2092d8626ba1.png)
+Only a sample of the map series for the Olympic Peninsula have been included. I selected sample maps that qualitatively showed the greatest shoreline impacts with the tsunami and sea level rise, or that had human infrastructure in close proximity to the shoreline. 
 
 ![Extraction_MastersLab5 1](https://user-images.githubusercontent.com/45399983/133898297-db0f44f6-36a8-4ac7-88c8-848748634a58.png)
+![Extraction_MastersLab5 7](https://user-images.githubusercontent.com/45399983/133898531-a25885de-ac8b-44e6-838b-08f5218da72c.png)
+![Extraction_MastersLab5 14](https://user-images.githubusercontent.com/45399983/133898533-f4187708-a7b8-4c16-8d31-8c8978528955.png)
+![Extraction_MastersLab5 26](https://user-images.githubusercontent.com/45399983/133898544-c4bca0ea-e2c1-4d94-bbf7-5b55a2ab929f.png)
+![Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898546-86ca2561-8d0d-4944-8f7d-21e8bcb4b159.png)
 
-### Creator's Notes:
+![Tohoku_edit](https://user-images.githubusercontent.com/45399983/133865721-5ebfd9e4-8eca-48b9-a0d1-2092d8626ba1.png)
+
+### C![Uploading Extraction_MastersLab5 26.png…]()
+reator's Notes:
 The intent of this lab was to show how climate change-induced sea level rise could mimic a short-term natural disaster like a tsunami, and draw attention to how rising sea levels will cause an increase in destruction from storm surges and tsunamis.  
 
 For the Olympic Peninsula map series, I researched what the expected future sea level rise will be in Washington State with climate change (assuming "business as usual" emissions scenario), and
@@ -42,4 +49,4 @@ to show all of western Washington in my case) and label each of the grid section
 automatically create individual pages for each section of the grid. I had a bunch of sections, about 50 in
 total. The format is automatically the same across all the pages. 
 
-In the future I would like to try this out with Japan as well, with a detailed infrastructure layer so that viewers could see exactly what was affected. I would also like to apply climate change sea level rise projected shorelines on a map series of Japan. As it turns out, Washington is not that vulnerable to western-Pacific tsunamis or climate-induced sea level rise. I do not think that my data accounts for glacial rebound, which would make the climate change sea level rise even smaller. Essentially, I would like to repeat this lab but only focus on Japan, or repeat it on an area that experineces both hurriances, sea level rise, and land subsidence (e.g. Louisiana or Florida). 
+In the future I would like to try this out with Japan as well, with a detailed infrastructure layer so that viewers could see exactly what was affected. I would also like to apply climate change sea level rise projected shorelines on a map series of Japan. As it turns out, Washington is not that vulnerable to western-Pacific tsunamis or climate-induced sea level rise. I do not think that my data accounts for glacial rebound, which would make the climate change sea level rise even smaller. Essentially, I would like to repeat this lab but only focus on Japan, or apply it to an area that experiences hurricanes, sea level rise, and land subsidence (e.g. Louisiana or Florida). 
