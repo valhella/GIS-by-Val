@@ -5,8 +5,11 @@ Only a sample of the map series for the Olympic Peninsula have been included. I 
 ![Extraction_MastersLab5 1](https://user-images.githubusercontent.com/45399983/133898297-db0f44f6-36a8-4ac7-88c8-848748634a58.png)
 ![Extraction_MastersLab5 7](https://user-images.githubusercontent.com/45399983/133898531-a25885de-ac8b-44e6-838b-08f5218da72c.png)
 ![Extraction_MastersLab5 14](https://user-images.githubusercontent.com/45399983/133898533-f4187708-a7b8-4c16-8d31-8c8978528955.png)
-![Extraction_MastersLab5 26](https://user-images.githubusercontent.com/45399983/133898544-c4bca0ea-e2c1-4d94-bbf7-5b55a2ab929f.png)
+
+![Extraction_MastersLab5 26](https://user-images.githubusercontent.com/45399983/133898594-2e83fe50-8451-45a9-b56d-3a404f60d8c1.png)
+
 ![Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898546-86ca2561-8d0d-4944-8f7d-21e8bcb4b159.png)
+![Extraction_MastersLab5 59](https://user-images.githubusercontent.com/45399983/133898598-c00d61c1-2e4b-41f4-8cee-3ed68437f06f.png)
 
 ![Tohoku_edit](https://user-images.githubusercontent.com/45399983/133865721-5ebfd9e4-8eca-48b9-a0d1-2092d8626ba1.png)
 
