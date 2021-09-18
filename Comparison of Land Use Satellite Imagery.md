@@ -1,4 +1,5 @@
 # Comparison of Land Use Satellite Imagery
+## GIS Lab 9
 
 ![Masters_Lab9_Page_01](https://user-images.githubusercontent.com/45399983/133866112-f5df561e-3dfa-4445-aa69-933766e9ddcd.png)
 
