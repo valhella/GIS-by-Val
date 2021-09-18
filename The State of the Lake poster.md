@@ -5,4 +5,5 @@ Lake Erie provides drinking water to over 11 million people, supports an economy
 This project investigates harmful algal blooms (HABs) in Lake Erie by comparing land use to surface water temperature, chlorophyll a concentration, and sediment concentration.
 
 [The State of The Lake_Oromeng_Masters.pdf](https://github.com/valhella/ArcGIS/files/7188863/The.State.of.The.Lake_Oromeng_Masters.pdf)
-[compresspng (1).zip](https://github.com/valhella/ArcGIS/files/7188896/compresspng.1.zip)
+![The State of The Lake_Oromeng_Masters-min](https://user-images.githubusercontent.com/45399983/133865594-6fc1d2cb-5c5e-452a-a17d-1bd114db79dc.png)
+
