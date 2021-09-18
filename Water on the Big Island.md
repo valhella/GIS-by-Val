@@ -1,4 +1,5 @@
 # Mean Annual Rainfall, Watersheds, & Rivers on the Big Island of Hawaii
+## GIS Lab 7
 
 ![Masters_Lab7_Page_1](https://user-images.githubusercontent.com/45399983/133866211-7100e3cc-2010-47ea-beee-3c2e21399135.png)
 
